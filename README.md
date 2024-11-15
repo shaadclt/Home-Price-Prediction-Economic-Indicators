@@ -121,3 +121,6 @@ pip install -r requirements.txt
 ## Conclusion
 The Random Forest Regression model is the best performing model, with GDP, Inflation, and Population being the most significant predictors of home prices. The relationships between features and home prices were analyzed, with some counterintuitive results likely due to multicollinearity.
 
+## License
+This project is licensed under the [MIT License](LICENSE.txt).
+
